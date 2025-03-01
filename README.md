@@ -8,3 +8,6 @@ Open shelf, cabinet and fridge to select ingredients.
 Cook once all ingredients are selected.
 
 Look at the map in "?" to learn where the dish comes from.
+
+~~~~~
+Jiangai Gao
